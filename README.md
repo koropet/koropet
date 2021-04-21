@@ -5,7 +5,7 @@ Also I really interesting in developing of OpenGL graphics apllications, some li
 The main technology that I working with is a .NET framework and C# language. Also I have some old progects in VBA. Other way to programming is models for TrumGame, where you can write
 parametric geometry and appearance of trum models that using in game.
 
-A big opportunity to realize myself I see in BIM technology. It has a large clusters of geterogenic data that have been to work with, compute, exchange, visualize, and more ither.
+A big opportunity to realize myself I see in BIM technology. It has a large clusters of geterogenic data that have been to work with, compute, exchange, visualize, and more other.
 It must help to improve processes of developing buildings and structures.
 
 🌱 I'm currently working on these projects:
